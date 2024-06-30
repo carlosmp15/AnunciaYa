@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"es.localhost.anunciaya.administrador","l":"es.localhost.anunciaya.administrador"},{"m":"es.localhost.anunciaya.administrador","l":"es.localhost.anunciaya.administrador.util"},{"m":"es.localhost.anunciaya.administrador","l":"es.localhost.anunciaya.administrador.ViewsControllers"}];updateSearchResults();
