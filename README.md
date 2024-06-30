@@ -3,9 +3,9 @@
 ## Descripción del proyecto
 AnunciaYa es una aplicación móvil para Android, creada para facilitar la venta de productos de segunda mano en los municipios de Córdoba. Además, ofrecemos un cliente administrador multiplataforma para la gestión de la aplicación móvil.
 
-- El ``cliente android`` se encuentra en la rama [client-anunciaya](https://github.com/iesgrancapitan-proyectos/202324DAM-junio-AnunciaYa/tree/client-anunciaya/client-anunciaya)
-- El ``administrador multiplataforma`` se encuentra en la rama [admin-anunciaya](https://github.com/iesgrancapitan-proyectos/202324DAM-junio-AnunciaYa/tree/admin-anunciaya/administrador-anunciaya)
-- El ``servidor php`` se encuentra en la rama [sv-anunciaya](https://github.com/iesgrancapitan-proyectos/202324DAM-junio-AnunciaYa/tree/sv-anunciaya/sv-php)
+- El ``cliente android`` se encuentra en la rama [client-anunciaya](https://github.com/carlosmp15/AnunciaYa/tree/client-anunciaya/client-anunciaya)
+- El ``administrador multiplataforma`` se encuentra en la rama [admin-anunciaya](https://github.com/carlosmp15/AnunciaYa/tree/admin-anunciaya/administrador-anunciaya)
+- El ``servidor php`` se encuentra en la rama [sv-anunciaya](https://github.com/carlosmp15/AnunciaYa/tree/sv-anunciaya/sv-php)
 
 [Enlace Trello](https://trello.com/invite/b/Mg4qXT32/ATTIa5887bfd4da593d1e71a9d1f0f75f3d001672884/centro-de-planteamiento-de-tareas)
 
